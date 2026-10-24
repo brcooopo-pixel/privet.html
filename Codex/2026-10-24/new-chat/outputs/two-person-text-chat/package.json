@@ -1,0 +1,12 @@
+{
+  "name": "do-private-text-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Two-person end-to-end encrypted text rooms",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

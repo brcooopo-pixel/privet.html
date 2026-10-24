@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1550" viewBox="0 0 1080 1550">
+<defs><style>.t{font-family:'Noto Sans Devanagari','Arial',sans-serif;fill:#1f2328}.h{font-size:50px;font-weight:700}.sub{font-size:26px;fill:#59636e}.step{font-size:31px;font-weight:700}.body{font-size:24px}.sm{font-size:20px;fill:#59636e}.btn{font-size:22px;font-weight:650;fill:#fff}.green{font-size:22px;font-weight:650;fill:#fff}</style></defs>
+<rect width="1080" height="1550" fill="#f6f8fa"/>
+<text x="65" y="92" class="t h">GitHub पर ऐप की फ़ाइलें डालें</text>
+<text x="68" y="140" class="t sub">आपका अकाउंट बन चुका है — अब ये 4 काम करें</text>
+<rect x="52" y="185" width="976" height="265" rx="24" fill="#fff" stroke="#d0d7de" stroke-width="3"/>
+<circle cx="112" cy="245" r="32" fill="#24292f"/><text x="112" y="254" text-anchor="middle" class="btn">1</text>
+<text x="163" y="255" class="t step">नया repository बनाएँ</text>
+<text x="90" y="310" class="t body">ऊपर दाएँ <tspan font-weight="700">+</tspan> दबाएँ, फिर <tspan font-weight="700">New repository</tspan> चुनें।</text>
+<rect x="90" y="350" width="125" height="58" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/><text x="152" y="388" text-anchor="middle" class="t body" font-weight="700">＋</text>
+<path d="M220 379h60" stroke="#57606a" stroke-width="3"/><path d="M270 369l14 10-14 10" fill="none" stroke="#57606a" stroke-width="3"/>
+<rect x="290" y="350" width="330" height="58" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/><text x="455" y="388" text-anchor="middle" class="t body">New repository</text>
+<rect x="52" y="475" width="976" height="360" rx="24" fill="#fff" stroke="#d0d7de" stroke-width="3"/>
+<circle cx="112" cy="535" r="32" fill="#24292f"/><text x="112" y="544" text-anchor="middle" class="btn">2</text>
+<text x="163" y="545" class="t step">नाम और Private चुनें</text>
+<text x="90" y="602" class="t body">Repository name में लिखें:</text>
+<rect x="90" y="625" width="520" height="58" rx="9" fill="#fff" stroke="#8c959f" stroke-width="2"/><text x="112" y="663" class="t body">do-private-text-room</text>
+<rect x="90" y="710" width="28" height="28" rx="5" fill="#1f883d"/><path d="M97 724l6 6 10-13" fill="none" stroke="#fff" stroke-width="3"/>
+<text x="133" y="734" class="t body">Private चुनें</text>
+<rect x="90" y="758" width="270" height="54" rx="10" fill="#1f883d"/><text x="225" y="793" text-anchor="middle" class="green">Create repository</text>
+<rect x="52" y="860" width="976" height="355" rx="24" fill="#fff" stroke="#d0d7de" stroke-width="3"/>
+<circle cx="112" cy="920" r="32" fill="#24292f"/><text x="112" y="929" text-anchor="middle" class="btn">3</text>
+<text x="163" y="930" class="t step">फ़ाइलें अपलोड करें</text>
+<text x="90" y="987" class="t body">Repository खुलने पर <tspan font-weight="700">Add file</tspan> → <tspan font-weight="700">Upload files</tspan> दबाएँ।</text>
+<rect x="90" y="1025" width="220" height="54" rx="9" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/><text x="200" y="1060" text-anchor="middle" class="t body">Add file  ▾</text>
+<path d="M322 1052h40" stroke="#57606a" stroke-width="3"/><path d="M350 1042l14 10-14 10" fill="none" stroke="#57606a" stroke-width="3"/>
+<rect x="375" y="1025" width="300" height="54" rx="9" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/><text x="525" y="1060" text-anchor="middle" class="t body">Upload files</text>
+<text x="90" y="1122" class="t sm">ZIP को पहले Extract करें; अंदर की सभी ऐप फ़ाइलें चुनें।</text>
+<text x="90" y="1165" class="t sm">जैसे: server.js · package.json · index.html · app.js · style.css</text>
+<rect x="52" y="1240" width="976" height="230" rx="24" fill="#fff" stroke="#d0d7de" stroke-width="3"/>
+<circle cx="112" cy="1300" r="32" fill="#24292f"/><text x="112" y="1309" text-anchor="middle" class="btn">4</text>
+<text x="163" y="1310" class="t step">Commit changes दबाएँ</text>
+<text x="90" y="1370" class="t body">अपलोड पेज के नीचे जाएँ और हरा <tspan font-weight="700">Commit changes</tspan></text>
+<text x="90" y="1412" class="t body">बटन दबाएँ। बस—फ़ाइलें GitHub पर पहुँच गईं।</text>
+<text x="68" y="1510" class="t sm">अगला काम: Render में इसी repository को चुनकर ऐप Deploy करना।</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1450" viewBox="0 0 1080 1450">
+<defs><style>
+.txt{font-family:'Noto Sans Devanagari','Arial',sans-serif;fill:#20211f}.title{font-size:52px;font-weight:700}.sub{font-size:28px;fill:#687065}.step{font-size:34px;font-weight:700}.body{font-size:26px}.small{font-size:22px;fill:#687065}.button{font-size:25px;font-weight:700;fill:white}.num{font-size:28px;font-weight:700;fill:white}
+</style></defs>
+<rect width="1080" height="1450" fill="#f7f7f5"/>
+<text x="70" y="95" class="txt title">Replit में ZIP डालना</text>
+<text x="72" y="145" class="txt sub">एक-एक करके ये बटन दबाएँ</text>
+<rect x="55" y="190" width="970" height="280" rx="28" fill="white" stroke="#e4e5df" stroke-width="3"/>
+<circle cx="115" cy="255" r="34" fill="#273126"/><text x="115" y="265" text-anchor="middle" class="num">1</text>
+<text x="170" y="267" class="txt step">Replit के Home पर जाएँ</text>
+<text x="95" y="335" class="txt body">होम पेज पर <tspan font-weight="700">Create App</tspan> दबाएँ।</text>
+<rect x="95" y="375" width="310" height="62" rx="12" fill="#273126"/><text x="250" y="415" text-anchor="middle" class="button">Create App</text>
+<rect x="55" y="500" width="970" height="370" rx="28" fill="white" stroke="#e4e5df" stroke-width="3"/>
+<circle cx="115" cy="565" r="34" fill="#273126"/><text x="115" y="575" text-anchor="middle" class="num">2</text>
+<text x="170" y="577" class="txt step">ZIP इम्पोर्ट चुनें</text>
+<text x="95" y="645" class="txt body">सूची में <tspan font-weight="700">Import existing project</tspan></text>
+<text x="95" y="690" class="txt body">या <tspan font-weight="700">Import from ZIP</tspan> दबाएँ।</text>
+<rect x="95" y="735" width="460" height="62" rx="12" fill="#edf0e9" stroke="#dfe4da"/><text x="325" y="775" text-anchor="middle" class="txt body">Import from ZIP  ↓</text>
+<rect x="55" y="900" width="970" height="380" rx="28" fill="white" stroke="#e4e5df" stroke-width="3"/>
+<circle cx="115" cy="965" r="34" fill="#273126"/><text x="115" y="975" text-anchor="middle" class="num">3</text>
+<text x="170" y="977" class="txt step">अपनी ZIP फ़ाइल चुनें</text>
+<text x="95" y="1045" class="txt body">Downloads खोलें और ये फ़ाइल चुनें:</text>
+<rect x="95" y="1080" width="660" height="68" rx="12" fill="#f2f4ef" stroke="#dfe4da"/><text x="125" y="1124" class="txt body" font-weight="700">do-private-text-chat.zip</text>
+<text x="95" y="1200" class="txt body">फिर <tspan font-weight="700">Open</tspan> दबाएँ। इम्पोर्ट के बाद <tspan font-weight="700">Run</tspan> दबाएँ।</text>
+<rect x="55" y="1310" width="970" height="95" rx="20" fill="#e9efe4"/>
+<text x="85" y="1355" class="txt small">अगर “Import from ZIP” न दिखे, स्क्रीन की फोटो यहाँ भेजें—</text>
+<text x="85" y="1388" class="txt small">मैं उसी स्क्रीन पर अगला बटन बता दूँगा।</text>
+</svg>

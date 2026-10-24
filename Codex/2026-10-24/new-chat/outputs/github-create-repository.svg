@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250"><style>.t{font-family:'Noto Sans Devanagari','Arial',sans-serif;fill:#1f2328}.h{font-size:43px;font-weight:700}.p{font-size:25px}.sm{font-size:21px;fill:#57606a}.field{font-size:22px;fill:#24292f}.b{font-size:22px;font-weight:700;fill:#fff}.n{font-size:24px;font-weight:700;fill:#fff}</style>
+<rect width="1000" height="1250" fill="#f6f8fa"/><text x="55" y="76" class="t h">Create repository पेज पर ये भरें</text><text x="58" y="120" class="t sm">फिर नीचे हरा बटन दबाएँ</text>
+<rect x="45" y="160" width="910" height="820" rx="22" fill="#fff" stroke="#d0d7de" stroke-width="3"/>
+<text x="85" y="220" class="t p" font-weight="700">Create a new repository</text>
+<text x="85" y="275" class="t field">Owner</text><rect x="85" y="292" width="300" height="54" rx="8" fill="#fff" stroke="#8c959f" stroke-width="2"/><text x="108" y="327" class="t sm">आपका GitHub नाम</text>
+<text x="85" y="390" class="t field">Repository name</text><circle cx="54" cy="425" r="25" fill="#1f6feb"/><text x="54" y="434" text-anchor="middle" class="n">1</text><rect x="85" y="408" width="750" height="60" rx="8" fill="#fff" stroke="#1f6feb" stroke-width="3"/><text x="108" y="447" class="t p">do-private-text-room</text>
+<text x="85" y="515" class="t field">Description (optional)</text><text x="85" y="550" class="t sm">इसे खाली छोड़ सकते हैं</text>
+<text x="85" y="620" class="t field" font-weight="700">Choose visibility</text><circle cx="54" cy="668" r="25" fill="#1f6feb"/><text x="54" y="677" text-anchor="middle" class="n">2</text>
+<rect x="85" y="640" width="750" height="74" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/><circle cx="118" cy="677" r="12" fill="#fff" stroke="#57606a" stroke-width="2"/><text x="148" y="686" class="t p">Public</text>
+<rect x="85" y="728" width="750" height="74" rx="10" fill="#eef6ff" stroke="#1f6feb" stroke-width="3"/><circle cx="118" cy="765" r="12" fill="#fff" stroke="#1f6feb" stroke-width="3"/><circle cx="118" cy="765" r="6" fill="#1f6feb"/><text x="148" y="774" class="t p" font-weight="700">Private  ✓</text>
+<circle cx="54" cy="855" r="25" fill="#1f6feb"/><text x="54" y="864" text-anchor="middle" class="n">3</text><text x="85" y="861" class="t p">README / .gitignore / License को अभी न चुनें</text>
+<rect x="85" y="895" width="300" height="58" rx="10" fill="#1f883d"/><circle cx="54" cy="924" r="25" fill="#1f6feb"/><text x="54" y="933" text-anchor="middle" class="n">4</text><text x="235" y="933" text-anchor="middle" class="b">Create repository</text>
+<rect x="45" y="1020" width="910" height="175" rx="20" fill="#eaf3e5"/><text x="80" y="1072" class="t p" font-weight="700">इसके बाद अगला काम</text><text x="80" y="1120" class="t p">Repository खुलेगी → Add file → Upload files</text><text x="80" y="1165" class="t sm">फिर ZIP से निकलीं सभी ऐप फ़ाइलें चुनें।</text>
+</svg>

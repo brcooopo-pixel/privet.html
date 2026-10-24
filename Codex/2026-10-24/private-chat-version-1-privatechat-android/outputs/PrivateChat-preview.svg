@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="900" viewBox="0 0 430 900">
+<rect width="430" height="900" fill="#f5f8fb"/>
+<rect x="0" y="0" width="430" height="35" fill="#f5f8fb"/>
+<text x="24" y="24" font-family="Arial,sans-serif" font-size="13" fill="#1b2a38">9:41</text>
+<text x="375" y="24" font-family="Arial,sans-serif" font-size="12" fill="#1b2a38">Wi-Fi  100%</text>
+<text x="24" y="82" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1b2a38">PrivateChat</text>
+<text x="24" y="109" font-family="Arial,sans-serif" font-size="14" fill="#637584">Direct, encrypted text between two Android phones</text>
+<rect x="20" y="132" width="390" height="78" rx="16" fill="#fff"/>
+<text x="38" y="160" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#637584">CONNECTION</text>
+<circle cx="44" cy="185" r="6" fill="#f2a93b"/>
+<text x="59" y="190" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#1b2a38">Not connected</text>
+<rect x="20" y="228" width="390" height="220" rx="16" fill="#fff"/>
+<text x="38" y="263" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#1b2a38">Create a room</text>
+<text x="38" y="288" font-family="Arial,sans-serif" font-size="13" fill="#637584">Start hosting, then share the code and Wi-Fi IP.</text>
+<text x="38" y="330" font-family="Arial,sans-serif" font-size="12" fill="#637584">ROOM CODE</text>
+<text x="38" y="360" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="2" fill="#1d6cdc">7J4K9M2Q8V6T</text>
+<text x="38" y="388" font-family="Arial,sans-serif" font-size="13" fill="#637584">Local IP: 192.168.1.24  |  Port: 45678</text>
+<rect x="38" y="405" width="354" height="34" rx="9" fill="#1d6cdc"/>
+<text x="215" y="428" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Start hosting</text>
+<rect x="20" y="466" width="390" height="236" rx="16" fill="#fff"/>
+<text x="38" y="501" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#1b2a38">Join a room</text>
+<text x="38" y="526" font-family="Arial,sans-serif" font-size="13" fill="#637584">Enter the host phone's IP and Room Code.</text>
+<rect x="38" y="545" width="354" height="43" rx="9" fill="#f5f8fb"/>
+<text x="52" y="572" font-family="Arial,sans-serif" font-size="14" fill="#8a9aa7">Host IP address</text>
+<rect x="38" y="597" width="354" height="43" rx="9" fill="#f5f8fb"/>
+<text x="52" y="624" font-family="Arial,sans-serif" font-size="14" fill="#8a9aa7">12-character Room Code</text>
+<rect x="38" y="650" width="354" height="38" rx="9" fill="#1d6cdc"/>
+<text x="215" y="675" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Connect directly</text>
+<rect x="20" y="720" width="390" height="160" rx="16" fill="#fff"/>
+<text x="38" y="755" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#1b2a38">Messages</text>
+<text x="38" y="779" font-family="Arial,sans-serif" font-size="12" fill="#637584">Messages stay in memory while the screen is open.</text>
+<rect x="38" y="797" width="354" height="39" rx="10" fill="#f5f8fb"/>
+<text x="52" y="822" font-family="Arial,sans-serif" font-size="14" fill="#8a9aa7">Write a message</text>
+<rect x="310" y="843" width="82" height="28" rx="8" fill="#1d6cdc"/>
+<text x="351" y="862" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">Send</text>
+</svg>
